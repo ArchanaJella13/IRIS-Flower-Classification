@@ -1,0 +1,14 @@
+Iris-Flower-Classification/
+│-- data/
+│   │-- iris.csv
+│-- notebooks/
+│   │-- data_exploration.ipynb
+│   │-- model_training.ipynb
+│-- src/
+│   │-- data_preprocessing.py
+│   │-- model.py
+│-- results/
+│   │-- predictions.csv
+│-- README.md
+│-- requirements.txt
+│-- .gitignore
